@@ -31,7 +31,7 @@ Digitally sign a transaction that pays a Fintech Finder candidate, and send this
 
 Review the transaction hash code associated with the validated blockchain transaction.
 
-##Breakdown
+## Breakdown
 
 Download Ganache & copy the mnemonic phrase into your .env file.
 
@@ -48,7 +48,7 @@ ce of the account.
 <img width="1440" alt="Screen Shot 2022-11-23 at 11 16 32 PM" src="https://user-images.githubusercontent.com/107821891/203715923-683e7482-0a24-4a87-9834-8cc612556f1c.png">
 
 
-##Libraries Used
+## Libraries Used
 
 streamlit
 dataclasses
